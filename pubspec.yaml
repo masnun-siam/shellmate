@@ -1,0 +1,27 @@
+name: shellmate
+description: A new Flutter project.
+publish_to: none
+version: 0.1.0
+environment:
+  sdk: ^3.5.0
+dependencies:
+  flutter:
+    sdk: flutter
+  dartz: ^0.10.1
+  equatable: ^2.0.5
+  flutter_bloc: ^8.1.6
+  get_it: ^7.7.0
+  connectivity_plus: ^6.0.5
+  internet_connection_checker: ^2.0.0
+  http: ^1.2.2
+  shared_preferences: ^2.3.2
+  ssh2:
+    path: ssh2-2.2.3
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  mockito: ^5.4.4
+  build_runner: ^2.4.12
+flutter:
+  uses-material-design: true
