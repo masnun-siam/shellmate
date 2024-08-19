@@ -35,7 +35,7 @@ dev_dependencies:
     sdk: flutter
 
   ssh2:
-    path: ../../ssh2-2.2.3
+    path: ../../../packages/ssh2
 
 
 # For information on the generic Dart part of this file, see the

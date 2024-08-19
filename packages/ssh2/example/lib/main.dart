@@ -76,8 +76,9 @@ pFkz72+8eA2cnbWUqHt9WqMUgUBYZTMESzQrTf7+q+0gWf49AZJ/QQ==
 
     try {
       result = await client.connect() ?? 'Null result';
-      if (result == "session_connected")
+      if (result == "session_connected") {
         result = await client.execute("ps") ?? 'Null result';
+      }
       await client.disconnect();
     } on PlatformException catch (e) {
       String errorMessage = 'Error: ${e.code}\nError Message: ${e.message}';

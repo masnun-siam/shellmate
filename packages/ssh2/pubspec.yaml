@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  uuid: ^3.0.4
+  uuid: ^4.4.2
 
 # For information on the generic Dart part of this file, see the
 # following page: https://www.dartlang.org/tools/pub/pubspec
