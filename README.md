@@ -45,5 +45,4 @@ Note: Make sure you have a device connected or an emulator running before execut
 
 ## License
 
-ShellMate is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+ShellMate is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
