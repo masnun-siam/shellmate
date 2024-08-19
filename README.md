@@ -39,9 +39,9 @@ Note: Make sure you have a device connected or an emulator running before execut
 <!-- For more detailed setup instructions or troubleshooting, please refer to our [Development Guide](DEVELOPMENT.md). -->
 
 
-<!-- ## Contributing -->
+## Contributing
 
-<!-- We welcome contributions from the community! Please see our [Contributing Guidelines](CONTRIBUTING.md) for more information on how to get involved. -->
+We welcome contributions from the community! Please see our [Contributing Guidelines](CONTRIBUTION.md) for more information on how to get involved.
 
 ## License
 
